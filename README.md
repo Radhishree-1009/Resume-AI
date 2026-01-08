@@ -10,7 +10,7 @@ A clean, single-page professional landing website built using **HTML, CSS, and J
 
 ### 🚀 Deployment
 This project is live on **GitHub Pages**:  
-👉 [View Live](https://radhishree-1009.github.io/Resume-AI-landing-page/)
+👉 [View Live] https://radhishree-1009.github.io/Resume-AI/
 
 ### ⚙️ Tech Stack
 - HTML
